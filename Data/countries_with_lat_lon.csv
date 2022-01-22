@@ -1,31 +1,31 @@
 country,sum,latitude,longitude,sum_actual
-India,9,20,77,8.50
-Saint Lucia,10,13.88,-61.13,10.00
-Holy See (Vatican City State),10,41.9,12.45,10.00
-Serbia,10,44,21,10.00
+India,9,20,77,8.5
+Saint Lucia,10,13.88,-61.13,10
+Holy See (Vatican City State),10,41.9,12.45,10
+Serbia,10,44,21,10
 Cayman Islands,20,19.5,-80.5,19.99
-French Polynesia,22,-15,-140,22.50
-Belize,22,17.25,-88.75,22.50
-Peru,25,-10,-76,25.00
-Mauritania,25,20,-12,25.00
+French Polynesia,22,-15,-140,22.5
+Belize,22,17.25,-88.75,22.5
+Peru,25,-10,-76,25
+Mauritania,25,20,-12,25
 Armenia,27,40,45,27.49
-Venezuela,27,8,-66,27.50
+Venezuela,27,8,-66,27.5
 Jersey,39,49.190017,-2.11,38.67
 Namibia,42,-22,17,42.48
 Paraguay,45,-23,-58,44.99
 Bulgaria,49,43,25,48.88
 Sri Lanka,50,7,81,49.99
 China,64,35,105,63.53
-Morocco,67,32,-5,67.50
+Morocco,67,32,-5,67.5
 Pakistan,82,30,70,82.35
 Portugal,83,39.5,-8,82.86
 Lao People's Democratic Republic,85,18,105,85.48
 Bahamas,86,24.25,-76,85.96
-Maldives,87,3.25,73,87.50
+Maldives,87,3.25,73,87.5
 South Africa,90,-29,24,89.98
 Romania,92,46,25,91.86
 Nigeria,92,10,8,92.49
-Luxembourg,101,49.75,6.17,101.50
+Luxembourg,101,49.75,6.17,101.5
 Jamaica,109,18.25,-77.5,108.97
 Finland,111,64,26,111.25
 Russia,116,55.7504461,37.6174943,115.72
@@ -70,8 +70,8 @@ Oman,1550,21,57,1550.09
 Switzerland,1592,47,8,1591.64
 Indonesia,2080,-5,120,2079.97
 Singapore,3532,1.37,103.8,3532.11
-France,3644,46,2,3643.50
-Bahrain,7535,26,50.55,7535.30
+France,3644,46,2,3643.5
+Bahrain,7535,26,50.55,7535.3
 Qatar,8545,25.5,51.25,8544.86
 Australia,12877,-27,133,12876.51
 United Kingdom,15555,54,-2,15554.73
