@@ -9,6 +9,10 @@
     <link rel="stylesheet" href="static/styles.css">
     <style>
         body {font-family: Georgia, serif}
+        div.box{padding-right: 20%;
+            margin-left: 3em;
+            margin-right: 15em
+        }
         </style>
 </head>
 <body class="jumbotron text-white jumbotron-image shadow" style="background-image: url('pexels-badulescu-badulescu-2171077.jpg');">
@@ -39,15 +43,55 @@
         </div>
     </header>
     <div class="container" id="visualizations">
-        <h2 class="visualization-header">Key Takeaway's</h2>
-        <p> Vitamin Ventures should release three or four more products to an e-commerce channel and to a big box retailer. Additionally, they should not invest as much time and effort into their other wholesalers. </p>
+        <h1 class="visualization-header text-center">Key Takeaway's</h1>
+        <br>
+        <h3>
+            <ul>
+                <li>
+                    Vitamin Ventures should release three or four more products through their e-commerce and retailer channels.
+                </li>
+                <br>
+                <li>
+                    They should focus on the company’s top 15 products and consider eliminating some products.
+                </li>
+                <br>
+                <li>
+                    Additionally, they should not invest as much time and effort into their other wholesalers.
+                </li>
+                <br>
+                <li>
+                    Work needs to be done to improve their supply chain issues.
+                </li>
+            </ul>
+        </h3>
+        <div>
+            <h1  class = "text-center">
+                Sales
+            </h1>
+            <br>
+            <h3>
+                As you will see in the next three charts, the analysis confirms the overall growth rate of 95% 
+                <br>and the emergence of new markets in the e-commerce and retailer distribution channels, 
+                <br>with a collective 43% of 2021 sales.  (Please note:  our team was asked to mask data for 
+                <br>retailers and e-commerce.  They are generically presented as 1 and 2).  The data shows the following:
+            </h3>
+            <h3>
+                <ul>
+                    <li>
+                        Evidence of exceptionally strong growth over the two years in all channels except wholesale, which grew only 13%.  Based on discussions with the Vitamin Ventures team, wholesalers are believed to be an important aspect of their brand awareness and word of mouth marketing. We recommend they still build these relationships, but the growth is not there based on the data.  It has stayed stagnant and unsteady.
+                    </li>
+                    <br>
+                    <li>
+                        While there is overall growth, some trend instability is present with some dips and spikes in the data especially for retailer and website sales.  These dips coincide with the company’s known supply chain issues.  This issue will be further addressed in the product analysis.
+                    </li>
+                </ul>
+            </h3>
+        </div>
         <div class="row">
                 <div class="col-md-12 plots" >
-                <h2><b2>
-                    
+                <h2>
                     Overall Sales Growth 2020- 2021
-                    <br>
-                </b2></h2>
+                </h2>
                 <br>
                 <br>
                 <embed type="text/html" src="Graphs/Total_sales_20-21_Line.html" width="1500" height="600">
@@ -56,7 +100,7 @@
         <div class="row  col-lg-12 plots  ">
             <div class="col-md-12 plots" >
             <h2><b2>
-                Company Sales Overview and Growth 2020 through 2021
+                Data Chart
             </b2></h2>
             <br>
             <embed type="text/html" src="Graphs\PNG\Picture1.png" width="1200" height="610">
@@ -65,7 +109,8 @@
             <p> Vitamin Ventures should focus on planning for their growth to keep up with their demand. Sales from last year grew at a rate of 95% on average but could have grown even more if they were not out of stock of certain products </p>
             </div>
         </div>
-        <div class="row  col-md-50  ">
+        <!-- 
+            <div class="row  col-md-50  ">
             <div class="col-md-12 plots" >
             <h2><b2>
                 
@@ -77,39 +122,42 @@
             <embed type="text/html" src="Graphs/Total_sales_20-21_Box.html" width="1500" height="600">
             </div>
         </div>
+        -->
         <div class="row">
             <div class="col-md-12 plots">
                 <h2>Sales by Channels 2020 through 2021 </h2>
                 <br>
             </div>
-            <div class="row">
-                <div class="col-md-3 plots" style="margin-right: 3em;">
-                    <embed type="text/html"  src="Graphs/Total_Sales_by_Channel_pie.html" width="550" height="380">
-                </div>
+            <div class="col-md-12 plots">
                 <br>
-                <div class="col-md-3 plots">
-                    <embed type="text/html" src="Graphs/Total_Sales_by_Channel_2020_pie.html"  width="480" height="380">
+                <div class="col-md-6 plots">
+                    <embed type="text/html" src="Graphs/Total_Sales_by_Channel_2020_pie.html"  width="600" height="450">
                 </div>  
-                <div class="col-md-3 plots">
-                    <embed type="text/html" src="Graphs/Total_Sales_by_Channel_2021_pie.html"  width="550" height="380">
+                <div class="col-md-6 plots">
+                    <embed type="text/html" src="Graphs/Total_Sales_by_Channel_2021_pie.html"  width="600" height="450">
                 </div>
             </div>
-            <p> Based on our data, 65% of sales for the two best selling products, were purchased through their e-commerce vendor, Amazon </p>
-            <p> Even if they are worried about taking away sales from their own website, they need to keep in mind that the volume of the sales that Amazon and Target can provide them, will make up for the marginal decrease in profit that the third-party vendor costs </p>
+            <div  class="col-md-12 plots" >
+                <p>Based on our data, 65% of sales for the two best selling products, were purchased through their e-commerce vendor, Amazon </p>
+                <p>Even if they are worried about taking away sales from their own website, they need to keep in mind that the volume of the sales that Amazon and Target can provide them, will make up for the marginal decrease in profit that the third-party vendor costs </p>
+            </div>
+            
         </div>
         <br>
-        <div class="row  col-md-50  ">
-            <div class="col-md-12 plots" >
-            <h2><b2>
-                
-                Units Sold by Channel per Month
-                <br>
-            </b2></h2>
-            <br>
-            <br>
-            <embed type="text/html" src="Graphs/Units_by_Channel_by_Month_bar.html" width="1500" height="600">
-            </div>
-        </div>
+        <br>
+        <h1 class= "text-center col-md-50"  >
+            Products
+        </h1>
+        <h3 >
+            Vitamin Ventures offers 75 different products (see chart - Number of Products by Sales Channel).  All 75 are offered through their website and only a select few are offered through the other channels.  The trend line chart of the top products (Top Products Sales Growth 2020 and 2021) more explicitly demonstrates the supply chain issues with items being out of stock which makes it hard to tell if there is any seasonality to the data.  After discussing this data with the board, Vitamin Ventures confirms that sometimes they will have to turn away orders based on supply chain issues.
+
+<br>
+<br>            Based on our data (see chart Total Skus Breakdown by Channels), the top two products, sku 6666 Thyroid Complex and 3333 Fruits and Greens 30 capsules, roughly 33% of all sales were purchased through their e-commerce vendor, Amazon.  Further analysis revealed the top 15 products account for t 80% of Vitamin Ventures’ total sales while the other 50 products only produce 20%.
+<br>
+<br>
+For future, Vitamin Ventures should release three or four more products to an e-commerce channel and to a big box retailer.  Additionally, they should not invest as much time and effort into their wholesalers.  
+
+        </h3>
         <div class="row  col-md-50  ">
             <div class="col-md-12 plots" >
             <h2><b2>
@@ -149,7 +197,7 @@
             <div class="col-md-12 plots" >
             <h2><b2>
                 
-                Total Skus Breakdown by Channels
+                Total Skus Breakdown by Channel
                 <br>
             </b2></h2>
             <br>
@@ -158,6 +206,17 @@
             </div>
             <div class="col-md-12 plots" >
                 <p> Vitamin Ventures should release three or four more products to an e-commerce channel and to a big box retailer. Additionally, they should not invest as much time and effort into their other wholesalers </p>
+            </div>
+        </div>
+        <div class="row  col-md-50  ">
+            <div class="col-md-12 plots" >
+            <h2><b2>
+                
+                Units Sold by Channel per Month
+                <br>
+            </b2></h2>
+            <br>
+            <embed type="text/html" src="Graphs/Units_by_Channel_by_Month_bar.html" width="1500" height="600">
             </div>
         </div>
     </div>
