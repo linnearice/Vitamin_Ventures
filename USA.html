@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vitamin Ventures</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" href="static/styles.css">
+    <style>
+        body {font-family: Georgia, serif}
+        </style>
+</head>
+<body class="jumbotron text-white jumbotron-image shadow" style="background-image: url('pexels-badulescu-badulescu-2171077.jpg');">
+    <header>
+        <div class="row">
+            <div class="col-md-12 jumbotron text-center"> 
+                <div class="jumbotron text-center"  style = "background-color: rgb(255, 255, 255);" >  
+                    <h1>Vitamin Ventures</h1>
+                    <br>
+                    <p>Vitamin Ventures has made a big footprint in the United States. Here we will break down all web sales data in the US with location sales data.</p>
+                <nav class="navigation"> 
+                    <h2>
+                        <a style="margin-right: 3em;" href="index.html"> 
+                            ABOUT 
+                        </a> 
+                        <a style="margin-left: 3em; margin-right: 3em;" href="CHANNELS_PRODUCTS.html"> 
+                            CHANNELS & PRODUCTS
+                        </a>
+                        <a style="margin-left: 3em; margin-right: 4em;" href="USA.html">
+                            USA Analysis 
+                        </a> <!-- "margin-left: 3em; margin-right: 3em;" -->
+                        <a style="margin-right: 2em;" href="INTERNATIONAL.html">
+                            INTERNATIONAL Analysis 
+                        </a> 
+                    </h2>
+                </nav>
+            </div>
+        </div>
+        </div>
+    </header>
+    <div class="container" id="visualizations">
+        <h2 class="visualization-header">Key Takeaway's</h2>
+        <br>
+        <p> Major cities contribute to a majority of sales. </p>
+        <p> 
+            Top product categories that have gained the most traction in the US are: General health, immune and digestive health, 
+            and joint health. 
+        </p>
+        <p> Sales indicate that strong populations deliver great word of mouth exposure for products and web sales allows for a swift and easy way to allow that exposure to spread at a rapid pace. </p>
+        <div class="row">
+            <div class="col-md-12 plots">
+                    <h2>2021 USA Cities Sale</h2>
+                    <br>
+                    <p></p>
+            </div>
+            <div class="row">
+                <div class="col-md-12 plots">
+                        <embed type="text/html" src="Graphs/2021_US_Cities_Sales.html" width="1500" height="600">
+                </div>
+            </div>
+        </div>
+        <p> Here we get a good overview of total web sales in the US. A quick glance tells us that a majority of our sales reside in
+            3 states: California, Texas, New York. The density of these states where we have sales is very large. We can also 
+            deduce that due to the high concentration of populations in these spaces that word of mouth was successful marketing here!
+            This gives more evidence to speak on the quality of the product, along with the sales price is deemed to be affordable 
+            and sustainable when compared to the market.
+        </p>
+        <div class="row">
+                <div class="col-md-9 plots" >
+                <h2><b2>
+                    By State
+                </b2></h2>
+                <embed type="text/html" src="Graphs/Top_10_States_2021.html" width="850" height="500">
+                </div>
+                <div class="col-md-3 summary" id="plot-summary">
+                <p>
+                <br>
+                <br>
+                    This horizontal bar chart gives us total sales for each state, supporting our hypothesis that California,
+                    Texas, and New York are the biggest sales states. It is surprising to note here that Florida, while not seeming
+                    very dense compared to the other states, is hot on the tail of New York in total sales!
+                </p>
+                </div>
+        </div>
+        <div class="row  col-xl-50  ">
+            <div class="col-md-9 plots" >
+            <h2><b2>
+                By City 
+            </b2></h2>
+            <embed type="text/html" src="Graphs/Top_10_Cities_2021.html" width="850" height="500">
+            </div>
+            <div class="col-md-3 summary" id="plot-summary">
+            <p>
+            <br>
+            <br>
+                City net sales are even more interesting. While Los Angeles is the biggest money maker, as expected from above, Bozeman
+                which resides in Montana puts this state on the map as a place with high revenue. 
+            </p>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 plots">
+                    <h2>USA Sales- 2020 through 2021</h2>
+                    <br>
+                    <p></p>
+            </div>
+            <div class="row">
+                <div class="col-md-12 plots">
+                        <embed type="text/html" src="Graphs/US_Sales_Line.html" width="1500" height="600">
+                </div>
+            </div>
+        </div>
+        <p> 
+            Looking at the chart above we see the company had a decent start in the US bringing in close to a quarter million
+            at the start of 2020. From there over the 24 month period we are recording, we notice several instances where sales
+            dip dramatically. When we compare this data to April-October of 2021 Product Channel data, we see this conicides with
+            the issue of top selling products production issues (selling out). This gives us more data supporting that although
+            the company had a boost in popularity and sales, the lack of forecasting potential boom in sales caused loss in revenue
+            due to not putting focus on increasing production of top selling products.
+        </p>
+        <div class="row">
+            <div class="col-md-12 plots">
+                    <h2>Sales by Category per Month in US 2020 through 2021 </h2>
+                    <br>
+            </div>
+            <div class="row">
+                <div class="col-md-12 plots">
+                        <embed type="text/html" src="Graphs/Sales_by_Categopry_per_Month_US_bar.html" width="1500" height="600">
+                </div>
+            </div>
+        </div>
+        <p> 
+            Here we see that the company had great success with their flagship general health products.
+            There has always maintained a consistent consumer success around these products where a majority of focus should
+            always be maintained. With the addition to newer product types, the biggest successful introduction was based around
+            immune and digestive health. We believe that the company should continue to allocate resources in producing and 
+            advertising their immune and digestive health products to add to their flagship of improving your health.
+        </p>
+        <div class="row">
+            <div class="col-md-12 plots">
+                <h2>US Sales by Category 2020 through 2021 </h2>
+                <br>
+            </div>
+            <div class="row col-md-12">
+                <div class="col-md-6 plots" >
+                    <embed type="text/html"  src="Graphs/Category_2020_US__pie.html" width="600" height="450">
+                </div>
+                <div class="col-md-6 plots">
+                    <embed type="text/html" src="Graphs/Category_2021_US__pie.html"  width="600" height="450">
+                </div>
+                <br>
+                <p> 
+                    Here we have more support to our claim above. This pie chart shows the interest in immune 
+                    health products passing up joint health products the same year new products here were introduced.
+                </p>  
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-12 plots " >
+                <br>
+                <h2><b1>Top</b1> 10 US Sales by Product 2020 through 2021 </h2>
+                <br>
+                <p>
+                </p>
+                <br>
+            </div>
+            <div>
+                <div class="col-md-12 plots" >
+                    <embed type="text/html"  src="Graphs/Ten_by_Product_2020_US_bar.html" width="1500" height="600">
+                </div>
+                <div class="col-md-12 plots">
+                    <embed type="text/html" src="Graphs/Top_Ten_by_Product_2021_US_bar.html"  width="1500" height="600">
+                </div>  
+            </div>
+            <p>
+                Again we see year over year, the introduction of the Elderberry product was a major success! Overall, 
+                we do see some shrink on the flagship sales due to the new product, but the overall sales between the two 
+                far surpasses what Vitamin D3 was doing alone. Focus on these top 10 products should be maintained going into 
+                2022.
+            </p>
+        </div>
+        <div class="row">
+            <div class="col-md-12 plots" >
+                <br>
+                <h2>Bottom 10 US Sales by Product 2020 through 2021 </h2>
+            </div>
+            <div>
+                <div class="col-md-12 plots" >
+                    <embed type="text/html"  src="Graphs/Bottom_Ten_by_Product_2021_US_bar.html" width="1500" height="600">
+                </div>
+                <div class="col-md-12 plots">
+                    <embed type="text/html" src="Graphs/Bottom_Ten_by_Product_2020_US_bar.html"  width="1500" height="600">
+                </div>
+            </div>
+            <br>
+        </div>
+        <p>
+            Here we can focus on what products have not done well. Excluding bundles or higher volumes of flagships 
+            we see that Vitamin B12 and Magnesium dont seem to be contributing to much and could just be causing 
+            the company loss with production and logistics. We recommend that the company take a strong look at these 
+            products to determine if they want to sink more funds into them, or continue to market their strongest money 
+            makers.
+        </p>  
+    </div>
+</body>
+</html>
