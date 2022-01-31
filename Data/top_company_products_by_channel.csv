@@ -1,0 +1,147 @@
+channel_original,sku,year,product_title,qty_tot,sum_net_sales,sku_total_qty
+E-commerce 1,1010,2021,Prenatal DHA 60 capsules,6573,65697.135,28600
+E-commerce 2,1010,2021,Prenatal DHA 60 capsules,33,329.87,28600
+Website,1010,2021,Prenatal DHA 60 capsules,18089,102287.3148,28600
+Wholesale,1010,2021,Prenatal DHA 60 capsules,3905,7781.25,28600
+E-commerce 1,1112,2021,Fruits and Greens 180 capsules,2616,28389.97515,6194
+Retailer 1,1112,2021,Fruits and Greens 180 capsules,756,4259.04,6194
+Website,1112,2021,Fruits and Greens 180 capsules,2213,18447.6747,6194
+Wholesale,1112,2021,Fruits and Greens 180 capsules,609,0,6194
+E-commerce 2,1113,2021,Bronchial Wellness Herbal Blend 60 capsules,53,1192.32,18245
+Website,1113,2021,Bronchial Wellness Herbal Blend 60 capsules,17110,303079.9825,18245
+Wholesale,1113,2021,Bronchial Wellness Herbal Blend 60 capsules,1082,4072.495,18245
+E-commerce 2,1114,2021,Prenatal DHA 180 capsules,22,494.945,13106
+Website,1114,2021,Prenatal DHA 180 capsules,10720,170904.224,13106
+Wholesale,1114,2021,Prenatal DHA 180 capsules,2364,6592.495,13106
+Website,1115,2021,Hair/Skin/Nails Ultra 60 capsules,22100,109909.2736,23827
+Wholesale,1115,2021,Hair/Skin/Nails Ultra 60 capsules,1727,1512.5,23827
+Retailer 1,1117,2021,Allereze Nasal Spray 2oz,840,3675,12047
+Website,1117,2021,Allereze Nasal Spray 2oz,10809,74722.90995,12047
+Wholesale,1117,2021,Allereze Nasal Spray 2oz,398,0,12047
+Retailer 1,1118,2021,Co Q10 30 capsules,791,3460.625,8558
+Website,1118,2021,Co Q10 30 capsules,7325,47830.45975,8558
+Wholesale,1118,2021,Co Q10 30 capsules,442,382.495,8558
+E-commerce 2,1119,2021,Turmeric Joint 180 capsules,25,562.375,11942
+Website,1119,2021,Turmeric Joint 180 capsules,10512,176028.1093,11942
+Wholesale,1119,2021,Turmeric Joint 180 capsules,1405,10476,11942
+E-commerce 1,1120,2021,Glucosamine Chondroitin 60 capsules,2261,28021.21,
+E-commerce 2,1120,2021,Glucosamine Chondroitin 60 capsules,17,212.415,
+Retailer 1,1120,2021,Glucosamine Chondroitin 60 capsules,2532,15732,
+Retailer 2,1120,2021,Glucosamine Chondroitin 60 capsules,341,2301.75,
+Website,1120,2021,Glucosamine Chondroitin 60 capsules,9862,107803.2296,
+Wholesale,1120,2021,Glucosamine Chondroitin 60 capsules,952,2810.4,
+Website,1121,2021,Hair/Skin/Nails Ultra 30 capsules,13939,30501.1119,
+Wholesale,1121,2021,Hair/Skin/Nails Ultra 30 capsules,1087,756.25,
+E-commerce 1,1122,2021,Vitamin B12 60 capsules,1393,13923.035,
+E-commerce 2,1122,2021,Vitamin B12 60 capsules,19,189.905,
+Website,1122,2021,Vitamin B12 60 capsules,10760,55203.6847,
+Wholesale,1122,2021,Vitamin B12 60 capsules,848,1650,
+Website,1123,2021,Glucosamine Chondroitin 180 capsules,6364,111559.6196,
+Wholesale,1123,2021,Glucosamine Chondroitin 180 capsules,421,2160,
+Website,1124,2021,Elderberry Gels 30 qty,19099,508750.7107,
+Wholesale,1124,2021,Elderberry Gels 30 qty,205,0,
+Wholesale,1125,2021,Glucos Ecommerce,336,937.44,
+E-commerce 2,1126,2021,Vitamin B12 180 capsules,15,337.425,
+Website,1126,2021,Vitamin B12 180 capsules,4985,70641.9199,
+Wholesale,1126,2021,Vitamin B12 180 capsules,361,1350,
+Website,1127,2021,Allereze Nasal Spray 4oz,5380,58702.77975,
+Wholesale,1127,2021,Allereze Nasal Spray 4oz,277,0,
+Website,1128,2021,Co Q10 60 capsules,2258,23724.9098,
+Wholesale,1128,2021,Co Q10 60 capsules,286,0,
+Website,1129,2021,Zinc Sinus Nose Spray,391,222.02,
+Wholesale,1129,2021,Zinc Sinus Nose Spray,4,0,
+Website,1130,2021,Fish Oil,4190,32046.19455,
+Wholesale,1130,2021,Fish Oil,1,0,
+Website,1131,2021,Brain Boost,2380,4316.08495,
+Wholesale,1131,2021,Brain Boost,51,6.495,
+E-commerce 1,1132,2021,Fruits and Greens Ecommerce,4195,41928.275,
+E-commerce 2,1133,2021,Vitamin D3 1000mg,203,5074.025,22902
+Website,1133,2021,Vitamin D3 1000mg,22699,527202.4646,22902
+E-commerce 1,1134,2021,Pro DHA Memory 180 capsules,42,734.79,
+Website,1134,2021,Pro DHA Memory 180 capsules,366,5690.13,
+Wholesale,1134,2021,Pro DHA Memory 180 capsules,13,0,
+E-commerce 1,1135,2021,Pro DHA Memory 60 capsules,32,559.84,
+Website,1135,2021,Pro DHA Memory 60 capsules,358,5577.885,
+Wholesale,1135,2021,Pro DHA Memory 60 capsules,9,17.495,
+E-commerce 1,1136,2021,Pro DHA Memory 30 capsules,57,997.215,
+Website,1136,2021,Pro DHA Memory 30 capsules,930,14233.35,
+Wholesale,1136,2021,Pro DHA Memory 30 capsules,3,0,
+Website,1137,2021,Phosphatidylserine,8496,22708.0906,
+Wholesale,1137,2021,Phosphatidylserine,1,0,
+Website,1138,2021,Probiotic 1500,2789,1797.195,
+Wholesale,1138,2021,Probiotic 1500,1,0,
+Website,1139,2021,Vitamin D3 Plus K2 60 capsules,9319,213053.31,
+E-commerce 2,1140,2021,Vitamin D3 5000mg,25,1437.975,
+Website,1140,2021,Vitamin D3 5000mg,3550,187187.5647,
+Website,1141,2021,Zinc Glycinate,431,3794.39075,
+Wholesale,1141,2021,Zinc Glycinate,20,0,
+Website,1142,2021,Immune Support,981,4915.8,
+Wholesale,1142,2021,Immune Support,20,0,
+Website,1143,2021,Stress Management,1483,8512.70995,
+Wholesale,1143,2021,Stress Management,20,0,
+Website,1144,2021,DHEA,3091,15301.4544,
+Wholesale,1144,2021,DHEA,20,0,
+Website,1145,2021,Zinc Tablets 50 mg 60 count,1652,17046.7847,
+Wholesale,1145,2021,Zinc Tablets 50 mg 60 count,20,0,
+Website,1146,2021,Vitamin D3 Pro 1000mg,7107,163908.7549,
+Wholesale,1146,2021,Vitamin D3 Pro 1000mg,1,0,
+Website,1148,2021,Glucosamine MSM,39,452.365,
+Wholesale,1148,2021,Glucosamine MSM,1,0,
+Website,1149,2021,Ultimate Fat Burner,4704,827.77,
+Website,1150,2021,Vitamin D3 Plus K2 180 capsules,2562,133393.395,
+Website,1151,2021,Prenatal Pro 60 capsules,2590,43117.38495,
+Website,1152,2021,Amino Acid Complete,7220,1575.015,
+Website,1153,2021,Evening Primrose Oil 4oz,359,1872.9515,
+Website,1154,2021,New you bundle,1489,67009.88495,
+Website,1155,2021,Hair/Skin/Nails Ultra 180 capsules,4968,1066.65995,
+Website,1156,2021,Magnesium 100mg,30,369.165,
+Website,1157,2021,Zinc Tablets 50 mg 120 count,504,5025.01,
+Website,1158,2021,Prenatal Pro 180 capsules,1084,38955.1298,
+Website,1160,2021,Vitamin D3 Pro 5000mg,1602,82983.26995,
+Website,1161,2021,Evening Primrose Oil 2oz,690,3867.60575,
+Website,1162,2021,Liquid Magnesium,1471,279.03,
+Website,1163,2021,Elderberry Gels 60 qty,1279,40722.62,
+Website,1166,2021,Vitamin Tablet Organizer,2027,458.875,
+Website,1167,2021,Choline,1148,6773.59495,
+Website,1168,2021,Elderberry Gels 180 qty,1527,47957.925,
+Website,1170,2021,Vitamin B12 30 capsules,958,292.39,
+Website,1171,2021,Vitamin C 180 capsules,47,248.465,
+Wholesale,1171,2021,Vitamin C 180 capsules,1,0,
+Website,1172,2021,Magnessium 200mg,29,383.45,
+Website,1173,2021,ProOmega EPA/DHA 60 capsules,38,285.865,
+Website,1174,2021,ProOmega EPA/DHA  180 capsules,50,342.3,
+Website,1175,2021,ProOmega EPA/DHA 30 capsules,9,64.97,
+Website,1178,2021,Vitamin C 60 capsules,4,28.855,
+E-commerce 1,3333,2021,Fruits and Greens 30 capsules,54175,540709.505,104100
+E-commerce 2,3333,2021,Fruits and Greens 30 capsules,70,699.685,104100
+Retailer 1,3333,2021,Fruits and Greens 30 capsules,1212,6060,104100
+Retailer 2,3333,2021,Fruits and Greens 30 capsules,1607,8703,104100
+Website,3333,2021,Fruits and Greens 30 capsules,30567,226098.5315,104100
+Wholesale,3333,2021,Fruits and Greens 30 capsules,16469,60359.085,104100
+Website,4444,2021,Co Q10 180 capsules,648,171.13995,
+Wholesale,4444,2021,Co Q10 180 capsules,5060,0,
+E-commerce 2,5555,2021,Fruits and Greens 60 capsules,76,1709.76,22220
+Retailer 1,5555,2021,Fruits and Greens 60 capsules,10788,121753.8,22220
+Website,5555,2021,Fruits and Greens 60 capsules,21942,399559.2209,22220
+Wholesale,5555,2021,Fruits and Greens 60 capsules,2405,12960,22220
+E-commerce 1,6666,2021,Thyroid Complex,165208,1639851.008,210125
+E-commerce 2,6666,2021,Thyroid Complex,28,279.875,210125
+Retailer 1,6666,2021,Thyroid Complex,15234,96862.5,210125
+Website,6666,2021,Thyroid Complex,22692,168274.6759,210125
+Wholesale,6666,2021,Thyroid Complex,6963,12534.995,210125
+Retailer 1,7777,2021,Digestive Support Bundle,13462,169494.22,
+Retailer 2,7777,2021,Digestive Support Bundle,1216,15694.88,
+Website,7777,2021,Digestive Support Bundle,954,11622.98,
+Wholesale,7777,2021,Digestive Support Bundle,30,24.995,
+E-commerce 2,8888,2021,Bronchial Wellness Herbal Blend 30 capsules,75,749.665,36299
+Retailer 1,8888,2021,Bronchial Wellness Herbal Blend 30 capsules,3480,17400,36299
+Website,8888,2021,Bronchial Wellness Herbal Blend 30 capsules,25209,174365.4935,36299
+Wholesale,8888,2021,Bronchial Wellness Herbal Blend 30 capsules,7535,21992.645,36299
+E-commerce 2,9999,2021,Turmeric Joint 30 capsules,52,519.74,30936
+Retailer 1,9999,2021,Turmeric Joint 30 capsules,10566,55833,30936
+Website,9999,2021,Turmeric Joint 30 capsules,16091,98061.2343,30936
+Wholesale,9999,2021,Turmeric Joint 30 capsules,4227,3749.39,30936
+Retailer 1,1111-R,2021,Bronchial Wellness Herbal Blend Retail,76668,409539,76679
+Wholesale,1111-R,2021,Bronchial Wellness Herbal Blend Retail,11,0,76679
+Retailer 1,2222-R,2021,Fruits and Greens Retail,82392,432045,82403
+Wholesale,2222-R,2021,Fruits and Greens Retail,11,0,82403
