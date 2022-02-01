@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(15, 45, 53);
+    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', 'serif';
+}
+
+.row-body {
+    margin-bottom: 30px;
+}
+
+.jumbotron {
+    /* this works background-image: url("../download.jpg");*/
+    background-size: 200%;
+    background-color: rgb(222, 233, 235);
+    font-family: 'Cambria', 'Cochin', 'Georgia', 'Times', 'Times New Roman', 'serif';
+    color: rgb(20, 17, 17);
+    
+}
