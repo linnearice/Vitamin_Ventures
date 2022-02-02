@@ -82,13 +82,12 @@ The effort was immense for many of our team members and we each learned many new
 ## Zarina Kossakova
 
 This project gave me the opportunity to apply my knowledge of many subjects I have learned in this class such as SQL, CSV, Python, Plotly, Pandas Library, Git, HTML and CSS.
-Data Prep and Cleaning – Starting off with 3 CSV files, we worked with Morgan Peterson and Linnea Rice on creating a database in pgAdmin and writing query codes in SQL tables.
-Data Exploration– Using CSV files created with SQL tables applied knowledge of Python and Pandas Library using Jupiter Notebook.
+
+- Data Prep and Cleaning – Starting off with 3 CSV files, we worked with Morgan Peterson and Linnea Rice on creating a database in pgAdmin and writing query codes in SQL tables. Using CSV files created with SQL tables applied knowledge of Python and Pandas Library using Jupiter Notebook.
 
 - Visualization – Applying interactive open-source Plotly and Plotly Express libraries, I updated and transformed various types of graphs for the best interactive webpage presentation.
 
 - HTML– In this project I was fully responsible for creating the interactive webpage. Using the latest version on of HTML5 I designed multiple interactive pages applying the CSS style sheet language. My tasks were to showcase our analysis discovery and findings in a straightforward interactive webpage, and to create discrete pages that cover each topic’s analysis.
-webpage, and to create discrete pages that cover each topic’s analysis.
 
 I am extremely proud of all the hard work that we did as a team, I enjoyed working with each and everyone. 
 
