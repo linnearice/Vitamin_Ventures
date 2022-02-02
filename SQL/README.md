@@ -1,0 +1,1 @@
+This directory holds all SQL files in which we created CSV files to be used in pandas dataframes for use in plotly graphs.

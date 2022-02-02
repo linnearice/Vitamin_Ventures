@@ -1,0 +1,1 @@
+This directory holds all interactive plotly charts and images for our analysis. Not all of these ended up being used in our project, but this shows the extent of every angle we covered to determine the most useful information to deliver the company strategy proposal. 

@@ -1,3 +1,6 @@
+### This was not used in our analysis website. We wanted to look at this data to determine if there was any recomendations we could add to our conclusion statement and decided not to put it in. 
+---
+
 Linear regression was used to test if median household income significantly predicted
 Vitamin Ventures’ United States (US) web-based vitamin sales for 2020 and 2021.
 
