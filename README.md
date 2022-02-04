@@ -61,7 +61,12 @@ Eventually we decided which ones to keep that had the most significance to our w
 
 Each page has a breakdown of our findings and recomendations for the companies straegy in 2022. This was the combined efforts of our entire team with only being provided 3 CSV files. Please view the webpage and explore our hard work to help a company grow even stronger moving through 2022! 
 
----
+## Visualizations
+
+![Screenshot 2022-01-19 17 12 25](https://user-images.githubusercontent.com/35401581/152608087-d8cd7705-67fd-4053-9171-6cb1aabc4907.png)
+
+![Screenshot 2022-01-25 14 30 35](https://user-images.githubusercontent.com/35401581/152608133-6c3f023e-186e-4c17-85e6-f5aab16271be.png)
+
 ---
 # About the collaborators
 
